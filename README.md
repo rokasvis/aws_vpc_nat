@@ -16,6 +16,6 @@
 - Connectivity between app and app nat db
 
 **2 Tier Architecture Deployment in your own VPC**
-![](add a diagram)
+![](Images/)
 - Should have all rules at all levels required
 
