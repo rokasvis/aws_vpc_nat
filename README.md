@@ -9,13 +9,13 @@
 - IPv4 and IPv6
 
 **VPC and its resources**
-- ![](add a VPC diagram)
+- ![](Images/VPC-Diagram.png)
 - Route table rules
 - SG rules
 - Subnet cidr blocks
 - Connectivity between app and app nat db
 
 **2 Tier Architecture Deployment in your own VPC**
-![](Images/)
+![](Images/2tier-aws-deployment.png)
 - Should have all rules at all levels required
 
